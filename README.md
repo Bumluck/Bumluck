@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm [Bumluck](https://sites.google.com/view/matthewyang), a gameplay programmer that is based in Orlando, Florida!
+I'm [**Bumluck**](https://sites.google.com/view/matthewyang), a gameplay programmer that is based in Orlando, Florida!
 
 I am always looking to gain experience with programming cool features in games.
 
@@ -11,10 +11,13 @@ I have a few games that I have worked on but right now my favorite is [Purr Summ
 #### About Me:
 
 - Favorite movie right now is No Other Choice
-- I enjoy playing games of many genres. Some examples of them are:
+- I enjoy playing games of any genre. Some examples of them are:
     - White Knuckle
     - Satisfactory
     - Timberborn
+- Can't drink any carbonated drinks. (My nose gets fizzy)
+- I'm Korean, so I get to eat a lot of Korean food.
+- **Hobbies**: Watching Movies/TV, Learning about random things in programming, Theme Parks
 <!--
 **Bumluck/Bumluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
