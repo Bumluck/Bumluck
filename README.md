@@ -1,4 +1,4 @@
-#### Hey there! 👋
+### Hey there! 👋
 
 I'm [Bumluck](https://sites.google.com/view/matthewyang), a gameplay programmer that is based in Orlando, Florida!
 
@@ -8,7 +8,7 @@ Right now I have the most experience with Unreal Engine, with Unity as a close s
 
 I have a few games that I have worked on but right now my favorite is [Purr Summer](https://ghost-knights.itch.io/purr-summer). ([Repo](https://github.com/popoyo07/SummerJam))
 
-### About Me:
+#### About Me:
 
 - Favorite movie right now is No Other Choice
 - I enjoy playing games of many genres. Some examples of them are:
