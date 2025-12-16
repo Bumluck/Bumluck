@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm [**Bumluck**](https://sites.google.com/view/matthewyang), a gameplay programmer that is based in Orlando, Florida!
+I'm [**Matthew**](https://sites.google.com/view/matthewyang), a gameplay programmer that is based in Orlando, Florida!
 
 I am always looking to gain experience with programming cool features in games.
 
