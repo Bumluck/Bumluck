@@ -12,9 +12,9 @@ I have a few games that I have worked on but right now my favorite is [Purr Summ
 
 - Favorite movie right now is No Other Choice
 - I enjoy playing games of many genres. Some examples of them are:
-    1. White Knuckle
-    2. Satisfactory
-    3. Timberborn
+    - White Knuckle
+    - Satisfactory
+    - Timberborn
 <!--
 **Bumluck/Bumluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
